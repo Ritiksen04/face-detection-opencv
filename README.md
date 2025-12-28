@@ -20,6 +20,6 @@ Install OpenCV using pip:
 
 ```bash
 pip install opencv-python
-
+```
 How to Run
 python Face_detection.py
