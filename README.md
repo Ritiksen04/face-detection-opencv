@@ -1,5 +1,3 @@
-# face-detection-opencv
-Real-time face detection using OpenCV Haar Cascade and Python.
 # Face Detection using OpenCV (Python)
 
 This project performs real-time face detection using a webcam and OpenCV's Haar Cascade classifier.
