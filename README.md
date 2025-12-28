@@ -18,8 +18,9 @@ This project performs real-time face detection using a webcam and OpenCV's Haar 
 
 Install OpenCV using pip:
 
-```bash
+```
 pip install opencv-python
 ```
 How to Run
+```
 python Face_detection.py
