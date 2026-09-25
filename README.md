@@ -22,3 +22,9 @@ pip install opencv-python
 How to Run
 ```
 python Face_detection.py
+
+## Features
+
+- Real-time face detection using OpenCV
+- Webcam-based detection
+- Haar Cascade classifier
