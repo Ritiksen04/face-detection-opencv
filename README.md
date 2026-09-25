@@ -27,3 +27,9 @@ python Face_detection.py
 - `Face_detection.py` - Main face detection program
 - `requirements.txt` - Required Python dependency
 - `README.md` - Project documentation
+
+## Features
+
+- Real-time face detection using OpenCV
+- Webcam-based detection
+- Haar Cascade classifier
