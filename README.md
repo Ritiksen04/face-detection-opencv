@@ -22,6 +22,11 @@ pip install opencv-python
 How to Run
 ```
 python Face_detection.py
+## Project Structure
+
+- `Face_detection.py` - Main face detection program
+- `requirements.txt` - Required Python dependency
+- `README.md` - Project documentation
 
 ## Features
 
